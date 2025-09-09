@@ -3,3 +3,8 @@ pandas
 numpy
 seaborn
 plotly
+matplotlib
+requests
+statsmodels
+scipy
+scikit-learn
